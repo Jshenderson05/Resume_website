@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jude Henderson - Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Jude Henderson</h1>
+        </header>
+
+        <section class="contact-info">
+            <p><strong>Phone:</strong> 828-708-0617</p>
+            <p><strong>Email:</strong> jshenderson@mail.lipscomb.edu</p>
+            <p><strong>Location:</strong> Nashville, TN</p>
+        </section>
+
+        <hr>
+
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Time-Management</li>
+                <li>Multitasking</li>
+                <li>Customer Service</li>
+                <li>Fast Mathematics Abilities</li>
+            </ul>
+        </section>
+
+        <hr>
+
+        <section class="education">
+            <h2>Education</h2>
+            <p><strong>Lipscomb University | Nashville, TN</strong></p>
+            <p><em>Bachelor of Business Administration</em></p>
+            <p>Expected Graduation: May 2027</p>
+            <p><strong>Major:</strong> Business Administration</p>
+            <p><strong>Minor:</strong> International Business</p>
+        </section>
+
+        <hr>
+
+        <section class="languages">
+            <h2>Language Skills</h2>
+            <p><strong>English:</strong> Fluent</p>
+            <p><strong>German:</strong> Limited Working Proficiency</p>
+        </section>
+
+        <hr>
+
+        <section class="certifications">
+            <h2>Certifications</h2>
+            <p>CPR and AED (Valid through April 2025)</p>
+            <p>Data Analytics Certificate</p>
+        </section>
+
+        <hr>
+
+        <section class="work-experience">
+            <h2>Work Experience</h2>
+
+            <div class="job">
+                <h3>Pisgah Coffee Roasters | Pisgah Forest, NC</h3>
+                <p><em>Production Worker - Summer 2023 & 2024</em></p>
+                <ul>
+                    <li>Coordinated K-Cup Production workflow...</li>
+                    <li>Implemented and monitored sanitation protocols...</li>
+                    <li>Conducted detailed quality inspections...</li>
+                    <li>Delivered exceptional customer service...</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <h3>Swim Club Management Group | Lake Toxaway, NC</h3>
+                <p><em>Lifeguard - April 2023 - August 2024</em></p>
+                <ul>
+                    <li>Managed the opening and closing of the pool...</li>
+                    <li>Delivered life-saving First Aid...</li>
+                    <li>Closely monitored swimmers...</li>
+                    <li>Enforced pool rules...</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <h3>Lipscomb University | Nashville, TN</h3>
+                <p><em>Dispatch Worker - January 2024 - May 2024</em></p>
+                <ul>
+                    <li>Monitored surveillance cameras...</li>
+                    <li>Executed emergency response plans...</li>
+                    <li>Contacted emergency services promptly...</li>
+                    <li>Processed fine payments efficiently...</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+
+</body>
+</html>
